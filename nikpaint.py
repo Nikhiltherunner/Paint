@@ -6,7 +6,7 @@ def paint(event):
 
 root = Tk()
 root.geometry("500x300")
-root.title("Paint Application Developed By Nettechians ")
+root.title("Paint Application Developed By Nikhil ")
 
 canva = Canvas(root,bg="light yellow")
 canva.pack()
